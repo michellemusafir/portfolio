@@ -14,6 +14,6 @@
 
 ### Michelle Nigri Musafir
 
-### Linkedin: https://www.linkedin.com/michellemusafir
+### Linkedin: https://www.linkedin.com/in/michellemusafir
 
 ```
