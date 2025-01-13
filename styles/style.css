@@ -88,7 +88,7 @@ body {
     font-size: 1.5rem;
 }
 
-.apresentacao__links_navegacao {
+.apresentacao__links__navegacao {
     display: flex;
     justify-content: center;
     gap: 16px;
